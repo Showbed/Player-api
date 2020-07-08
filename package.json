@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Showbed/Player-api/issues"
   },
-  "homepage": "https://github.com/Showbed/Player-api#readme"
+  "homepage": "https://github.com/Showbed/Player-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
